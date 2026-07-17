@@ -1,0 +1,14 @@
+{
+  "name": "Registro de Campo — Tello Produce",
+  "short_name": "Campo Tello",
+  "description": "Escaneo de gafetes y captura de cosecha diaria para trabajadores de campo.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E4A38",
+  "theme_color": "#1E4A38",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
